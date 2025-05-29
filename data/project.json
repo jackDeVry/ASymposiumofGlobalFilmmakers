@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "jackDeVry",
+    "is_private": false,
+    "title": "A Symposium of Global Filmmakers",
+    "description": "This digital humanities project aims to serve as an accessible and engaging introduction to the work of several influential filmmakers from around the globe. Recognizing that the definition of \"greatness\" in cinema is subjective, this initial selection represents a personal curation intended to spark curiosity and further exploration. The project encompasses a diverse array of resources designed to provide a multifaceted understanding of each filmmaker's contribution.",
+    "language": "en",
+    "slug": "ASymposiumofGlobalFilmmakers",
+    "creator": "jackDeVry",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-29T17:40:13.356Z",
+    "updated_at": "2025-05-29T17:40:13.356Z"
   }
 }
