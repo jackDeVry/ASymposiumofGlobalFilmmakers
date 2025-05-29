@@ -1,9 +1,27 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "image",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0dsGrILbHkiOwGZ2rZ59S9aDy20G0b6npxpLJN2HjY5eIXLm9Zu3oQvs7k-F1FfnrsiIzYtE4RTFbPBRniQYG43Qx6weSbrFFgxGGcUw1EWGiGAies2senj0fBrBs0K8IEYn6jkVPKexd/s1600/Recently+Updated.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-05-29T17:40:13.397Z",
   "created_by": "jackDeVry",
   "title": "A Symposium of Global Filmmakers",
-  "updated_at": "2025-05-29T17:40:13.397Z",
+  "updated_at": "2025-05-29T17:47:37.899Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
