@@ -6,13 +6,22 @@
       "file_type": "Audio",
       "file_url": "https://dn720309.ca.archive.org/0/items/stanley-kubrick-interview-1965/Stanley%20Kubrick%20Interview%201965.mp3",
       "duration": 4591
+    },
+    "52ad9278-0638-4c3c-ac50-2182a2fb5eca": {
+      "label": "The Killing 1956",
+      "is_offline": false,
+      "file_url": "https://dn720207.ca.archive.org/0/items/thekilling1956/The%20Killing%20%281956%29.mp4",
+      "duration": 5060,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
   "label": "Stanley Kubrick Interview (1965)",
   "created_at": "2025-05-29T17:42:08.507Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-05-29T18:41:54.303Z",
+  "updated_at": "2025-05-29T18:42:59.943Z",
   "updated_by": "jackDeVry",
   "av_file_order": [
     "541bbbe0-282e-4a6f-988c-e38dede82291"
