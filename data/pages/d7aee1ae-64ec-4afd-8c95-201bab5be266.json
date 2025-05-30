@@ -44,7 +44,8 @@
       "children": [
         {
           "textSize": "heading-two",
-          "text": "Who is Stanley Kubrick?"
+          "text": "Who is Stanley Kubrick?",
+          "color": "#d81818"
         }
       ]
     },
@@ -69,7 +70,7 @@
       "children": [
         {
           "text": "Films and Influence in Global Cinema",
-          "textSize": "heading-two"
+          "textSize": "heading-three"
         }
       ],
       "align": "left"
@@ -453,6 +454,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-05-29T17:45:34.421Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-05-30T16:08:20.254Z",
+  "updated_at": "2025-05-30T16:21:13.233Z",
   "updated_by": "jackDeVry"
 }
