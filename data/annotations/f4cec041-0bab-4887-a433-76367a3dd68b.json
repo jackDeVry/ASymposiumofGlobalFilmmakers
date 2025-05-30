@@ -13,7 +13,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Film Commentary",
+          "tag": "Personal Comments"
+        }
+      ],
       "uuid": "3304261f-1d08-45a9-acac-b7aec1feb06b"
     }
   ],
