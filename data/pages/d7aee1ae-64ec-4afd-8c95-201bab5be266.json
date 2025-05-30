@@ -50,7 +50,16 @@
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -67,6 +76,15 @@
     },
     {
       "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Films and Influence in Global Cinema",
@@ -76,13 +94,22 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
       "children": [
         {
           "text": "Stanley Kubrick’s filmography is a testament to his versatility, intellectual depth, and technical mastery. His films span genres—war, science fiction, horror, crime, historical drama, and dark comedy—yet share thematic threads: human nature’s complexities, the absurdity of systems, and existential questions. Below is an overview of his major works and their impact:"
         }
       ],
       "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -95,7 +122,17 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Kubrick’s early films, like "
@@ -133,6 +170,15 @@
     },
     {
       "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Mainstream Success and Genre Innovation",
@@ -142,7 +188,17 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
           "text": "Kubrick’s work with Kirk Douglas on "
@@ -168,8 +224,16 @@
         {
           "text": " (1964), a satirical masterpiece, tackled Cold War anxieties through dark comedy, with Peter Sellers’ triple role showcasing Kubrick’s ability to blend performance and vision."
         }
-      ],
-      "align": "left"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -182,7 +246,18 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
           "text": "2001: A Space Odyssey",
@@ -198,15 +273,25 @@
         {
           "text": " (1971), adapted from Anthony Burgess’s novel, provoked debate with its ultraviolent dystopia and moral ambiguity, cementing Kubrick’s reputation for pushing boundaries."
         }
-      ],
-      "align": "left"
+      ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
-          "text": "Barry Lyndon",
+          "text": "",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "italic": true,
+          "text": "Barry Lyndon"
         },
         {
           "text": " (1975), a visually stunning period drama, used natural lighting and meticulous set design to immerse viewers in 18th-century Europe. Though initially underappreciated, it’s now lauded for its painterly aesthetic. "
@@ -218,8 +303,16 @@
         {
           "text": " (1980), a horror adaptation of Stephen King’s novel, diverged from its source but became a genre classic, with Jack Nicholson’s unhinged performance and Kubrick’s eerie mise-en-scène (e.g., Steadicam shots) setting new standards."
         }
-      ],
-      "align": "left"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -232,11 +325,22 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
-          "text": "Full Metal Jacket",
+          "text": "",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "italic": true,
+          "text": "Full Metal Jacket"
         },
         {
           "text": " (1987) dissected the dehumanizing effects of war, blending brutal realism in its Vietnam bootcamp sequences with surreal combat scenes. "
@@ -248,8 +352,16 @@
         {
           "text": " (1999), released posthumously, explored desire and power in a dreamlike narrative starring Tom Cruise and Nicole Kidman. Though divisive, it underscored Kubrick’s willingness to experiment until the end."
         }
-      ],
-      "align": "left"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -271,12 +383,22 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
-          "text": "Technical Innovation",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "- Technical Innovation"
         },
         {
           "text": ": He pioneered techniques like front-projection effects ("
@@ -305,11 +427,11 @@
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
-          "text": "Narrative Ambition",
+          "text": "- Narrative Ambition",
           "bold": true
         },
         {
@@ -318,10 +440,11 @@
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
-          "text": "Genre Redefinition",
+          "text": "- Genre Redefinition",
           "bold": true
         },
         {
@@ -348,14 +471,14 @@
         {
           "text": ")."
         }
-      ],
-      "align": "left"
+      ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
-          "text": "Cultural Impact",
+          "text": "- Cultural Impact",
           "bold": true
         },
         {
@@ -375,21 +498,20 @@
         {
           "text": "’s influence on punk aesthetics."
         }
-      ],
-      "align": "left"
+      ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
-          "text": "Perfectionism as Standard",
+          "text": "- Perfectionism as Standard",
           "bold": true
         },
         {
           "text": ": Kubrick’s exhaustive research, multiple takes, and control over every detail (writing, editing, music) raised expectations for directorial authorship, influencing auteurs like David Fincher and Paul Thomas Anderson."
         }
-      ],
-      "align": "left"
+      ]
     },
     {
       "type": "paragraph",
@@ -454,6 +576,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-05-29T17:45:34.421Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-05-30T16:38:51.733Z",
+  "updated_at": "2025-05-30T17:28:54.919Z",
   "updated_by": "jackDeVry"
 }
