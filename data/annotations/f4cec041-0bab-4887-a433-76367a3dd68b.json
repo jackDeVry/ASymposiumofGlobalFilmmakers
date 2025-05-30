@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Killing is one of Stanley Kubrick's earliest films, but for some (myself), one of his best. The noir style, the character development and the ending make it a classic that is hard to replicate. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3304261f-1d08-45a9-acac-b7aec1feb06b"
+    }
+  ],
   "set": "Default",
   "event_id": "83f635b3-987f-4981-8ba7-a3bc8a7f14fe",
   "source_id": "f825107a-0aae-4d1e-b350-783bdba2a832"
