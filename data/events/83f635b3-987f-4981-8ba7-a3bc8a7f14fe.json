@@ -17,6 +17,15 @@
       "duration": 5060,
       "caption_set": [],
       "set_sort": []
+    },
+    "9a16da1e-b15c-42f6-9fdc-a9ca615f2ece": {
+      "label": "Stanley Kubrick A Life in Pictures (2001)",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=ApEh9Sm4BR0&ab_channel=WarnerBros.Entertainment",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -32,14 +41,15 @@
   ],
   "citation": "The Killing. Directed by Stanley Kubrick, performances by Sterling Hayden, Coleen Gray, and Vince Edwards, United Artists, 1956.",
   "item_type": "Audio",
-  "label": "Stanley Kubrick Interview & Films",
+  "label": "Stanley Kubrick Interview, Films, and Documentaries",
   "rights_statement": "https://rightsstatements.org/vocab/CNE/1.0/",
   "created_at": "2025-05-30T16:07:23.424Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-05-30T16:39:37.880Z",
+  "updated_at": "2025-05-30T18:16:50.288Z",
   "updated_by": "jackDeVry",
   "av_file_order": [
+    "f825107a-0aae-4d1e-b350-783bdba2a832",
     "59855acf-2e84-4d98-b3d2-f0f19b58fdd1",
-    "f825107a-0aae-4d1e-b350-783bdba2a832"
+    "9a16da1e-b15c-42f6-9fdc-a9ca615f2ece"
   ]
 }
