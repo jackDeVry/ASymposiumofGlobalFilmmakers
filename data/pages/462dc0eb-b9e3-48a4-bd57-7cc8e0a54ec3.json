@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "Stanley Kubrick Interview & Films",
   "slug": "stanley-kubrick-interview-and-films",
-  "updated_at": "2025-05-30T15:38:07.265Z",
+  "updated_at": "2025-05-30T15:48:27.008Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "4c1dbc47-a924-45e7-88fb-51639e7c5217"
-  }
+  },
+  "parent": "d7aee1ae-64ec-4afd-8c95-201bab5be266"
 }
