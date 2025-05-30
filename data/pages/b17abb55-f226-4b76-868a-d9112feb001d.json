@@ -1,10 +1,247 @@
 {
   "content": [
     {
-      "type": "image",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0dsGrILbHkiOwGZ2rZ59S9aDy20G0b6npxpLJN2HjY5eIXLm9Zu3oQvs7k-F1FfnrsiIzYtE4RTFbPBRniQYG43Qx6weSbrFFgxGGcUw1EWGiGAies2senj0fBrBs0K8IEYn6jkVPKexd/s1600/Recently+Updated.jpg",
+      "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Introduction",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This digital humanities project aims to serve as an accessible and engaging introduction to the work of several influential filmmakers from around the globe. Recognizing that the definition of \"greatness\" in cinema is subjective, this initial selection represents a personal curation intended to spark curiosity and further exploration. The project encompasses a diverse array of resources designed to provide a multifaceted understanding of each filmmaker's contribution. Users will find insightful film reviews offering critical analyses of key works, transcribed interviews providing direct access to the filmmakers' thoughts and creative processes, and where possible, links to the films themselves for immediate viewing. Furthermore, the project anticipates expanding beyond these core materials to potentially include scholarly essays, behind-the-scenes footage, and comparative analyses of different directors. The initial selection of filmmakers features individuals from countries such as the United States, Cuba, Russia, India, and Argentina, reflecting a commitment to showcasing a broad spectrum of cinematic voices and cultural perspectives. This international scope underscores the project's aim to move beyond conventional Western-centric narratives in film history. A key aspiration of this project is to foster a collaborative environment. To this end, the platform is designed to allow users to contribute their own pages dedicated to filmmakers they believe warrant inclusion in this symposium. This open and participatory structure encourages a dynamic and evolving resource, reflecting the diverse and ever-expanding landscape of global cinema. By providing a foundation of carefully selected filmmakers and offering the opportunity for community contribution, this project seeks to cultivate a deeper appreciation for the art of filmmaking and inspire further independent discovery."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0dsGrILbHkiOwGZ2rZ59S9aDy20G0b6npxpLJN2HjY5eIXLm9Zu3oQvs7k-F1FfnrsiIzYtE4RTFbPBRniQYG43Qx6weSbrFFgxGGcUw1EWGiGAies2senj0fBrBs0K8IEYn6jkVPKexd/s1600/Recently+Updated.jpg",
+      "caption": "World Cinema ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "#1 Stanley Kubrick",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2017/01/kubrick-retro.jpg",
+      "caption": "The Great Stanley Kubrick",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "#2 Tomás Guttierez Alea",
+          "textSize": "heading-one",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.shutterstock.com/editorial/image-editorial/N1T6k4x6OcD2key9ODQ2Mw==/tomas-gutierrez-alea-550nw-5878587j.jpg",
+      "caption": "Tomás \"Titón\" Gutierrez Alea",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "#3 Akira Kurosawa",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.britannica.com/85/136185-050-A47F2881/Kurosawa-Akira.jpg",
+      "caption": "Akira Kurosawa",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -21,7 +258,7 @@
   "created_at": "2025-05-29T17:40:13.397Z",
   "created_by": "jackDeVry",
   "title": "A Symposium of Global Filmmakers",
-  "updated_at": "2025-05-29T17:47:37.899Z",
+  "updated_at": "2025-05-30T15:11:45.160Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
