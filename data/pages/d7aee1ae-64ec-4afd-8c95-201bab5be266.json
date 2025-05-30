@@ -50,16 +50,7 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "type": "block-quote",
       "align": "left",
       "children": [
         {
@@ -76,15 +67,6 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": "Films and Influence in Global Cinema",
@@ -94,22 +76,13 @@
       "align": "left"
     },
     {
-      "type": "paragraph",
+      "type": "block-quote",
       "children": [
         {
           "text": "Stanley Kubrick’s filmography is a testament to his versatility, intellectual depth, and technical mastery. His films span genres—war, science fiction, horror, crime, historical drama, and dark comedy—yet share thematic threads: human nature’s complexities, the absurdity of systems, and existential questions. Below is an overview of his major works and their impact:"
         }
       ],
       "align": "left"
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     },
     {
       "type": "paragraph",
@@ -122,17 +95,7 @@
       "align": "left"
     },
     {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "textSize": "heading-three",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "type": "block-quote",
       "children": [
         {
           "text": "Kubrick’s early films, like "
@@ -170,15 +133,6 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": "Mainstream Success and Genre Innovation",
@@ -188,16 +142,7 @@
       "align": "left"
     },
     {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "type": "block-quote",
       "align": "left",
       "children": [
         {
@@ -228,15 +173,6 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": "Technical and Artistic Peak",
@@ -246,17 +182,7 @@
       "align": "left"
     },
     {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "textSize": "heading-three",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "type": "block-quote",
       "align": "left",
       "children": [
         {
@@ -276,17 +202,7 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "",
-          "italic": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "type": "block-quote",
       "align": "left",
       "children": [
         {
@@ -307,15 +223,6 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": "Later Works and Legacy",
@@ -325,17 +232,7 @@
       "align": "left"
     },
     {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "",
-          "italic": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "type": "block-quote",
       "align": "left",
       "children": [
         {
@@ -351,15 +248,6 @@
         },
         {
           "text": " (1999), released posthumously, explored desire and power in a dreamlike narrative starring Tom Cruise and Nicole Kidman. Though divisive, it underscored Kubrick’s willingness to experiment until the end."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -576,6 +464,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-05-29T17:45:34.421Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-05-30T17:28:54.919Z",
+  "updated_at": "2025-05-30T17:35:19.282Z",
   "updated_by": "jackDeVry"
 }
