@@ -24,13 +24,22 @@
       "caption_set": [],
       "set_sort": [],
       "file_type": "Video"
+    },
+    "3cba23b1-7263-474f-8ca9-27121c152a13": {
+      "label": "The Killing",
+      "is_offline": false,
+      "file_url": "https://dn720207.ca.archive.org/0/items/thekilling1956/The%20Killing%20%281956%29.mp4",
+      "duration": 5060,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
   "label": "Stanley Kubrick Interview & The Killing Film ",
   "created_at": "2025-05-29T17:42:08.507Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-05-29T18:46:04.938Z",
+  "updated_at": "2025-05-30T15:35:45.659Z",
   "updated_by": "jackDeVry",
   "av_file_order": [
     "541bbbe0-282e-4a6f-988c-e38dede82291"
