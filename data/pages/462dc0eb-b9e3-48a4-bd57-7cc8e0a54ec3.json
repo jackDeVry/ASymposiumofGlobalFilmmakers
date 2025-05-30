@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "4c1dbc47-a924-45e7-88fb-51639e7c5217",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-05-30T15:38:07.265Z",
   "created_by": "jackDeVry",
   "title": "Stanley Kubrick Interview & Films",
   "slug": "stanley-kubrick-interview-and-films",
-  "updated_at": "2025-05-30T15:48:44.955Z",
+  "updated_at": "2025-05-30T15:48:57.008Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "4c1dbc47-a924-45e7-88fb-51639e7c5217"
   },
