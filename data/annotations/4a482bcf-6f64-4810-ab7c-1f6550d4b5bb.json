@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is perhaps the most well-known film to ever come from Cuba. The film, with its neorealist style and heavy political message, was actually not liked or appreciated nationally in Cuba. If someone ever says, \"I think I've seen a Cuban film,\" this is probably it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Film Commentary",
+          "tag": "Personal Comments"
+        },
+        {
+          "category": "Film Commentary",
+          "tag": "Interesting Facts"
+        }
+      ],
+      "uuid": "a8777516-3b34-4558-85b1-fad8f9d5c328"
+    }
+  ],
   "set": "Default",
   "event_id": "81c0d4fd-8772-487b-aff2-b35ac252ddde",
   "source_id": "afba86d9-6475-4b6c-94e7-2e59a1125d68"
