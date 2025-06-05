@@ -32,7 +32,8 @@
         {
           "text": "Who is Tomás Gutiérrez Alea?",
           "bold": true,
-          "color": "#ea0628"
+          "color": "#ea0628",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -66,7 +67,8 @@
       "children": [
         {
           "text": "Films and Influence in Global Cinema",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -91,7 +93,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -100,7 +103,8 @@
       "children": [
         {
           "text": "Early Works and Revolutionary Foundations",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -146,7 +150,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -155,7 +160,8 @@
       "children": [
         {
           "text": "Artistic Maturity and Global Recognition",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -214,7 +220,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -223,7 +230,8 @@
       "children": [
         {
           "text": "Later Works and Universal Themes",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -268,7 +276,8 @@
       "children": [
         {
           "text": "Influence and Role in Global Cinema",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -314,6 +323,6 @@
   "slug": "tomas-gutierrez-titon-alea-1928-1996",
   "created_at": "2025-06-05T15:41:59.102Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-05T17:22:59.217Z",
+  "updated_at": "2025-06-05T17:23:45.321Z",
   "updated_by": "jackDeVry"
 }
