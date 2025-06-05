@@ -2,83 +2,6 @@
   "content": [
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "bold": true
-        }
-      ],
-      "align": "left"
-    },
-    {
-      "type": "image",
-      "url": "https://drive.google.com/file/d/1LX5TgWlEewkq2q6w-Ycg0iJWolpPkO-r/view?usp=sharing",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "bold": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "bold": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "bold": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "bold": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "bold": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "align": "center",
       "children": [
         {
@@ -168,7 +91,7 @@
   "slug": "2001-a-space-odyssey-film-review-april-4th",
   "created_at": "2025-06-05T16:26:39.880Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-05T16:26:57.648Z",
+  "updated_at": "2025-06-05T16:28:50.391Z",
   "updated_by": "jackDeVry",
   "parent": "d7aee1ae-64ec-4afd-8c95-201bab5be266"
 }
