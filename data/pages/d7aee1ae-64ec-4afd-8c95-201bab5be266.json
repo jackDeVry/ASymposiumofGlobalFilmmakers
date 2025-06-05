@@ -22,14 +22,6 @@
     },
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -50,7 +42,18 @@
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "color": "#d81818",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -67,6 +70,15 @@
     },
     {
       "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Films and Influence in Global Cinema",
@@ -76,13 +88,32 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Stanley Kubrick’s filmography is a testament to his versatility, intellectual depth, and technical mastery. His films span genres—war, science fiction, horror, crime, historical drama, and dark comedy—yet share thematic threads: human nature’s complexities, the absurdity of systems, and existential questions. Below is an overview of his major works and their impact:"
         }
       ],
       "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -95,7 +126,17 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
           "text": "Kubrick’s early films, like "
@@ -128,8 +169,16 @@
         {
           "text": " (1957), an anti-war masterpiece, critiqued military bureaucracy with stark realism, earning critical acclaim and establishing Kubrick as a serious filmmaker."
         }
-      ],
-      "align": "left"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -142,7 +191,16 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -173,6 +231,15 @@
     },
     {
       "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Technical and Artistic Peak",
@@ -182,7 +249,17 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -202,7 +279,16 @@
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -223,6 +309,15 @@
     },
     {
       "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Later Works and Legacy",
@@ -232,7 +327,17 @@
       "align": "left"
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -253,6 +358,15 @@
     },
     {
       "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Influence and Role in Global Cinema",
@@ -260,6 +374,16 @@
         }
       ],
       "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -464,6 +588,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-05-29T17:45:34.421Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-05-30T17:35:41.470Z",
+  "updated_at": "2025-06-05T15:38:34.472Z",
   "updated_by": "jackDeVry"
 }
