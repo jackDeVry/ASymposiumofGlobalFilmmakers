@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://screencuba.uk/wp-content/uploads/2024/01/tomas-gutierrez-alea-1.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Tomás Gutiérrez \"Titón\" Alea (1928-1996)",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "tomas-gutierrez-titon-alea-1928-1996",
+  "created_at": "2025-06-05T15:41:59.102Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-05T15:41:59.102Z",
+  "updated_by": "jackDeVry"
+}
