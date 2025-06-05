@@ -1,0 +1,173 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1LX5TgWlEewkq2q6w-Ycg0iJWolpPkO-r/view?usp=sharing",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": "Citation"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "RENATA ADLER, \"The Screen: '2001' Is Up, Up and Away: Kubrick's Odyssey in Space Begins Run Godard's 'La Chinoise' a Theater of Ideas.\""
+        },
+        {
+          "text": " New York Times (1923-)",
+          "italic": true
+        },
+        {
+          "text": ", 04 Apr., 1968, pp. 58"
+        },
+        {
+          "text": ". ProQuest",
+          "italic": true
+        },
+        {
+          "text": ", https://ezproxy.lib.utexas.edu/login?url=https://www.proquest.com/historical-newspapers/screen-2001-is-up-away/docview/118181463/se-2."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "2001: A Space Odyssey Film Review (April 4th, 1968) by Renata Adler",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "2001-a-space-odyssey-film-review-april-4th",
+  "created_at": "2025-06-05T16:26:39.880Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-05T16:26:39.880Z",
+  "updated_by": "jackDeVry"
+}
