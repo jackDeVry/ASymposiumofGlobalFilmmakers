@@ -98,152 +98,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "#1 Stanley Kubrick",
+          "text": "Filmmakers Selected (So far): Stanley Kubrick, Wes Anderson, Abbas Kiarostami, Andrei Tarkosvky, and more!",
           "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2017/01/kubrick-retro.jpg",
-      "caption": "The Great Stanley Kubrick",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "#2 Tomás Guttierez Alea",
-          "textSize": "heading-one",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "bold": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://www.shutterstock.com/editorial/image-editorial/N1T6k4x6OcD2key9ODQ2Mw==/tomas-gutierrez-alea-550nw-5878587j.jpg",
-      "caption": "Tomás \"Titón\" Gutierrez Alea",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "#3 Akira Kurosawa",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://cdn.britannica.com/85/136185-050-A47F2881/Kurosawa-Akira.jpg",
-      "caption": "Akira Kurosawa",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -277,7 +133,7 @@
   "created_at": "2025-05-29T17:40:13.397Z",
   "created_by": "jackDeVry",
   "title": "A Symposium of Global Filmmakers",
-  "updated_at": "2025-05-30T15:51:38.456Z",
+  "updated_at": "2025-06-05T15:50:56.606Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
