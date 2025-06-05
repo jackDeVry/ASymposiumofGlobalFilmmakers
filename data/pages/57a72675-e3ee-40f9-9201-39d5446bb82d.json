@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/Wes-Anderson_PRoger-Do-Minh_NETFLIX-2023-1.jpg?w=1600&h=900&crop=1",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Wes Anderson (1969-Present)",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "wes-anderson-1969-present",
+  "created_at": "2025-06-05T15:43:55.489Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-05T15:43:55.489Z",
+  "updated_by": "jackDeVry"
+}
