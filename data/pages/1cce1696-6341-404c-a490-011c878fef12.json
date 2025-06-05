@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://miro.medium.com/v2/resize:fit:750/1*wgzmYn9tDvPq4iPOdtQuEw.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Andrei Tarkovsky (1932-1986)",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "andrei-tarkovsky-1932-1986",
+  "created_at": "2025-06-05T15:48:37.147Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-05T15:48:37.147Z",
+  "updated_by": "jackDeVry"
+}
