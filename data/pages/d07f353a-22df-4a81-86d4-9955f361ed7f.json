@@ -4,11 +4,12 @@
   "created_by": "jackDeVry",
   "title": "Tomás Gutiérrez Alea Interviews, Films, and Documentaries",
   "slug": "tomas-gutierrez-alea-interviews-films-and-d",
-  "updated_at": "2025-06-05T17:28:08.289Z",
+  "updated_at": "2025-06-05T17:28:22.120Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "81c0d4fd-8772-487b-aff2-b35ac252ddde"
-  }
+  },
+  "parent": "94edab1e-f5e3-4803-85e6-e68ff289183c"
 }
