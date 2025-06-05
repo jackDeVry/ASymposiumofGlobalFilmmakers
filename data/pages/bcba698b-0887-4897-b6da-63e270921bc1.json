@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.britannica.com/85/136185-050-A47F2881/Kurosawa-Akira.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Akira Kurosawa (1910-1998)",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "akira-kurosawa-1910-1998",
+  "created_at": "2025-06-05T15:55:05.252Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-05T15:55:05.252Z",
+  "updated_by": "jackDeVry"
+}
