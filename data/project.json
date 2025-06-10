@@ -1,1 +1,103 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"jackDeVry","avatar_url":"https://avatars.githubusercontent.com/u/181752547?v=4","admin":true}],"project":{"github_org":"jackDeVry","is_private":false,"title":"A Symposium of (Some) of the Greatest Filmmakers","description":"This digital humanities project aims to serve as an accessible and engaging introduction to the work of several influential filmmakers from around the globe. Recognizing that the definition of \"greatness\" in cinema is subjective, this initial selection represents a personal curation intended to spark curiosity and further exploration.","language":"en","slug":"ASymposiumofGlobalFilmmakers","creator":"jackDeVry","authors":"Jack DeVry Riordan","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[{"login_name":"absempere","avatar_url":"https://avatars.githubusercontent.com/u/38816173?v=4","admin":false}],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"},{"color":"#ADFFD9","category":"Speaker"},{"color":"#ADFEFF","category":"Content"},{"color":"#C195DB","category":"Film Commentary"}],"tags":[{"category":"Speaker","tag":"Stanley Kubrick"},{"category":"Speaker","tag":"Jeremy Bernstein"},{"category":"Content","tag":"Transcript"},{"category":"Content","tag":"Laughter"},{"category":"Film Commentary","tag":"Personal Comments"},{"category":"Film Commentary","tag":"Interesting Facts"}]},"created_at":"2025-05-29T17:40:13.356Z","updated_at":"2025-06-10T18:42:18.209Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"b17abb55-f226-4b76-868a-d9112feb001d":{"content":[],"created_at":"2025-05-29T17:40:13.397Z","created_by":"jackDeVry","title":"A Symposium of Global Filmmakers","updated_at":"2025-05-29T17:40:13.397Z","updated_by":"jackDeVry","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["b17abb55-f226-4b76-868a-d9112feb001d"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "jackDeVry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181752547?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "jackDeVry",
+    "is_private": false,
+    "title": "A Symposium of (Some) of the Greatest Filmmakers",
+    "description": "This digital humanities project aims to serve as an accessible and engaging introduction to the work of several influential filmmakers from around the globe. Recognizing that the definition of \"greatness\" in cinema is subjective, this initial selection represents a personal curation intended to spark curiosity and further exploration.",
+    "language": "en",
+    "slug": "ASymposiumofGlobalFilmmakers",
+    "creator": "jackDeVry",
+    "authors": "Jack DeVry Riordan",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [
+      {
+        "login_name": "absempere",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        },
+        {
+          "color": "#ADFFD9",
+          "category": "Speaker"
+        },
+        {
+          "color": "#ADFEFF",
+          "category": "Content"
+        },
+        {
+          "color": "#C195DB",
+          "category": "Film Commentary"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Stanley Kubrick"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jeremy Bernstein"
+        },
+        {
+          "category": "Content",
+          "tag": "Transcript"
+        },
+        {
+          "category": "Content",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Film Commentary",
+          "tag": "Personal Comments"
+        },
+        {
+          "category": "Film Commentary",
+          "tag": "Interesting Facts"
+        }
+      ]
+    },
+    "created_at": "2025-05-29T17:40:13.356Z",
+    "updated_at": "2025-06-10T18:56:13.650Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "b17abb55-f226-4b76-868a-d9112feb001d": {
+      "content": [],
+      "created_at": "2025-05-29T17:40:13.397Z",
+      "created_by": "jackDeVry",
+      "title": "A Symposium of Global Filmmakers",
+      "updated_at": "2025-05-29T17:40:13.397Z",
+      "updated_by": "jackDeVry",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b17abb55-f226-4b76-868a-d9112feb001d"
+  ]
+}
