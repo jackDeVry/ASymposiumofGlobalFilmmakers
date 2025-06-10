@@ -20,6 +20,31 @@
         }
       ],
       "uuid": "3304261f-1d08-45a9-acac-b7aec1feb06b"
+    },
+    {
+      "start_time": 600,
+      "end_time": 625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WOW dude! What a crazy part!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Film Commentary",
+          "tag": "Personal Comments"
+        },
+        {
+          "category": "Film Commentary",
+          "tag": "Interesting Facts"
+        }
+      ],
+      "uuid": "0fff4d90-576c-44c6-b3ed-4f43559fa9a5"
     }
   ],
   "set": "Default",
