@@ -69,7 +69,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Literal-minded in its sex and brutality, Teutonic in its humor, Stanley Kubrick's A Clockwork Orange might be the work of a strict and exacting German professor who set out to make a porno-violent sci-fi Comedy. Is there anything sadder -- and ultimately more repellent -- than a clean-minded pornographer? The numerous rapes and beatings have no ferocity and no sensuality; they're frigidly, pedantically calculated, and because there is no motivating emotion, the viewer may experience them as an indignity and wish to leave. The movie follows the Anthony Burgess novel so closely that the book might have served as the script, yet that thick-skulled German professor may be Dr. Strangelove himself, because the meanings are turned around."
+          "text": "Literal-minded in its sex and brutality, Teutonic in its humor, Stanley Kubrick's "
+        },
+        {
+          "text": "A Clockwork Orange",
+          "italic": true
+        },
+        {
+          "text": " might be the work of a strict and exacting German professor who set out to make a porno-violent sci-fi Comedy. Is there anything sadder -- and ultimately more repellent -- than a clean-minded pornographer? The numerous rapes and beatings have no ferocity and no sensuality; they're frigidly, pedantically calculated, and because there is no motivating emotion, the viewer may experience them as an indignity and wish to leave. The movie follows the Anthony Burgess novel so closely that the book might have served as the script, yet that thick-skulled German professor may be Dr. Strangelove himself, because the meanings are turned around."
         }
       ]
     },
@@ -226,7 +233,7 @@
   "slug": "film-review-stanley-strangelove-by-pauline-k",
   "created_at": "2025-06-05T16:26:39.880Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-05T17:36:24.592Z",
+  "updated_at": "2025-06-11T22:08:41.303Z",
   "updated_by": "jackDeVry",
   "parent": "d7aee1ae-64ec-4afd-8c95-201bab5be266"
 }
