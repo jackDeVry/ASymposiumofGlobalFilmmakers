@@ -2,7 +2,7 @@
   "content": [
     {
       "type": "paragraph",
-      "align": "left",
+      "align": "center",
       "children": [
         {
           "text": "",
@@ -19,7 +19,7 @@
           "text": ""
         }
       ],
-      "scale": 20
+      "scale": 80
     },
     {
       "type": "paragraph",
@@ -37,7 +37,7 @@
       "children": [
         {
           "textSize": "heading-two",
-          "text": "Who is Stanley Kubrick?",
+          "text": "Who is Stanley Kubrick? and why did I pick him?",
           "color": "#d81818"
         }
       ]
@@ -66,6 +66,45 @@
         },
         {
           "text": " magazine by age 17. Largely self-taught, Kubrick’s passion for storytelling led him to filmmaking. He began with short documentaries and low-budget features, eventually directing 13 feature films over a career spanning four decades. Known for his reclusive nature and perfectionism, Kubrick moved to England in the 1960s, where he lived and worked until his death on March 7, 1999, at age 70. His meticulous approach and innovative techniques cemented his legacy as one of cinema’s most influential auteurs."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "For me, Stanley Kubrick embodies the magic and power of well-thought, and highly executed cinema. He is one of the only filmmakers who disregard from where you are in the world, Spain, Cuba, Russia, France, U.S., and more, everyone knows "
+        },
+        {
+          "text": "2001: A Space Odyssey",
+          "italic": true
+        },
+        {
+          "text": ", or "
+        },
+        {
+          "text": "The Shining",
+          "italic": true
+        },
+        {
+          "text": ", or "
+        },
+        {
+          "text": "Full Metal Jacket",
+          "italic": true
+        },
+        {
+          "text": ". He is the only filmmaker who is ABSOLUTELY essential. "
         }
       ]
     },
@@ -589,6 +628,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-05-29T17:45:34.421Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-10T18:56:13.169Z",
+  "updated_at": "2025-06-11T22:02:59.063Z",
   "updated_by": "jackDeVry"
 }
