@@ -594,6 +594,42 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://faroutmagazine.co.uk/static/uploads/1/2019/08/Stanley-Kubrick-Dr-Strangelove.jpg",
+      "caption": "A Young Stanley (FarOutMagazine.com)",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 25
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -628,6 +664,6 @@
   "slug": "stanley-kubrick-1928-1999",
   "created_at": "2025-05-29T17:45:34.421Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-11T22:02:59.063Z",
+  "updated_at": "2025-06-12T13:37:39.582Z",
   "updated_by": "jackDeVry"
 }
