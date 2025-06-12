@@ -8,97 +8,6 @@
       "duration": 4591,
       "caption_set": [],
       "set_sort": []
-    },
-    "f825107a-0aae-4d1e-b350-783bdba2a832": {
-      "label": "The Killing (1956)",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://dn720207.ca.archive.org/0/items/thekilling1956/The%20Killing%20%281956%29.mp4",
-      "duration": 5060,
-      "caption_set": [],
-      "set_sort": []
-    },
-    "9a16da1e-b15c-42f6-9fdc-a9ca615f2ece": {
-      "label": "Stanley Kubrick A Life in Pictures (2001)",
-      "is_offline": false,
-      "file_url": "https://www.youtube.com/watch?v=ApEh9Sm4BR0&ab_channel=WarnerBros.Entertainment",
-      "duration": 8685,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video",
-      "duration_overridden": true
-    },
-    "65a86d6e-1f22-470e-a9a7-d4a808ad50ef": {
-      "label": "Paths of Glory (1957)",
-      "is_offline": false,
-      "file_url": "https://dn720705.ca.archive.org/0/items/pathsofglory1957_201908/Paths%20of%20Glory%20%281957%29.mp4",
-      "duration": 5301,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
-    },
-    "e68fc0ba-b07e-4935-9e5e-c571a305325a": {
-      "label": "Fear and Desire (1952)",
-      "is_offline": false,
-      "file_url": "https://ia601003.us.archive.org/32/items/fearanddesire1953.webm.720p/Fear_and_Desire_%281953%29.webm.720p.mp4",
-      "duration": 3646,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
-    },
-    "7ab612aa-8b57-4959-999c-80b9a746f135": {
-      "label": "Spartacus (1960)",
-      "is_offline": false,
-      "file_url": "https://ia801401.us.archive.org/8/items/Sprtcs19601/Sprtcs1960-1.mp4",
-      "duration": 11811,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
-    },
-    "d4f9fc95-f8c3-404b-b9ee-fba5b55b3516": {
-      "label": "Lolita (1962)",
-      "is_offline": false,
-      "file_url": "https://dn720204.ca.archive.org/0/items/1962LolitaStanleyKubrickDrama/1962%20-%20Lolita%20-%20Stanley%20Kubrick%20-%20Drama.mp4",
-      "duration": 9210,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
-    },
-    "ae0945f8-ffeb-49ae-9ada-7e8ac2ea5369": {
-      "label": "Dr Strangelove, or: How I Learned to Stop Worrying and Love the Bomb (1964)",
-      "is_offline": false,
-      "file_url": "https://dn790001.ca.archive.org/0/items/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/Dr%20Strangelove%20or%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb.mp4",
-      "duration": 5698,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
-    },
-    "cc25f759-2916-4423-9287-a4bf0d75cd73": {
-      "label": "A Clockwork Orange (1971)",
-      "is_offline": false,
-      "file_url": "https://dn721605.ca.archive.org/0/items/a-clockwork-orange_202404/a%20clockwork%20orange%20.mp4",
-      "duration": 8196,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
-    },
-    "e85b0dab-73c1-4473-977c-2897fdc7a7aa": {
-      "label": "Barry Lyndon (1975)",
-      "is_offline": false,
-      "file_url": "https://ia802909.us.archive.org/6/items/barry-lyndon-1975_202406/Barry%20Lyndon%20%281975%29.mp4",
-      "duration": 11104,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
-    },
-    "acd2cb63-6c06-4dc7-b9e6-4bd957315926": {
-      "label": "Eyes Wide Shut (1999)",
-      "is_offline": false,
-      "file_url": "https://dn720409.ca.archive.org/0/items/eyes-wide-shut-tom-cruise-nicole-kidman-sydney-pollack-director-stalnley-kubrick/EYES%20WIDE%20SHUT%20-%20Tom%20Cruise%20Nicole%20Kidman%20Sydney%20Pollack%20-%20Director%20Stalnley%20Kubrick%20%28his%20last%20film%20direction%29%20-%20Based%20on%20the%20novella%20Traumnovelle%20%28Dream%20Story%29%20by%20Arthur%20Schnitzler.mp4",
-      "duration": 9544,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -118,19 +27,9 @@
   "rights_statement": "https://rightsstatements.org/vocab/CNE/1.0/",
   "created_at": "2025-05-30T16:07:23.424Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-05-30T18:57:55.521Z",
+  "updated_at": "2025-06-12T14:10:01.771Z",
   "updated_by": "jackDeVry",
   "av_file_order": [
-    "59855acf-2e84-4d98-b3d2-f0f19b58fdd1",
-    "e68fc0ba-b07e-4935-9e5e-c571a305325a",
-    "f825107a-0aae-4d1e-b350-783bdba2a832",
-    "65a86d6e-1f22-470e-a9a7-d4a808ad50ef",
-    "7ab612aa-8b57-4959-999c-80b9a746f135",
-    "d4f9fc95-f8c3-404b-b9ee-fba5b55b3516",
-    "ae0945f8-ffeb-49ae-9ada-7e8ac2ea5369",
-    "cc25f759-2916-4423-9287-a4bf0d75cd73",
-    "e85b0dab-73c1-4473-977c-2897fdc7a7aa",
-    "acd2cb63-6c06-4dc7-b9e6-4bd957315926",
-    "9a16da1e-b15c-42f6-9fdc-a9ca615f2ece"
+    "59855acf-2e84-4d98-b3d2-f0f19b58fdd1"
   ]
 }
